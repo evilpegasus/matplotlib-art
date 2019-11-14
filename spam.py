@@ -20,4 +20,3 @@ while(i <= max):
     spam()
     unspam()
     i += 1
-
