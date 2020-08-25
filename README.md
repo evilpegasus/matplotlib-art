@@ -1,4 +1,4 @@
-# test
+# prime-plot
 
 This makes cool art
 
