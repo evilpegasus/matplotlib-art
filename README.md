@@ -1,5 +1,4 @@
-# prime-plot
-
+# Matplotlib Art
 This makes cool art. Currently my background picture.
 
 ![Prime Plot](https://github.com/evilpegasus/test/blob/master/polar.png)
